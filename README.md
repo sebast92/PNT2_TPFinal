@@ -1,6 +1,6 @@
 # tpfinal
 
-## Project setup
+## Project setup2
 ```
 npm install
 ```
